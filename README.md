@@ -1,9 +1,13 @@
 # Flight-Inquiry-App
 
 Problem Statement:
+
 Develop a graphic representation of the graph problem using Python wx.DC (in a frame).
 
+
+
 The simple application provides the following functionality:
+
 1. Create a air traffic problem SQL database
 
 2. Read a graph (air traffic problem) from the SQL database using sqlite3.
