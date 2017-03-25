@@ -1,5 +1,4 @@
 # Flight-Inquiry-App
-Python GUI
 
 Problem Statement:
 Develop a graphic representation of the graph problem using Python wx.DC (in a frame).
@@ -17,7 +16,9 @@ The simple application provides the following functionality:
 5. The provided map requires an alternative mapping of longitude and latitude as follows:
 
 x = R * (longitude0 – longitude)
+
 y = R * (tan(latitude) – tan(latitude0))
+
 with R the radius of Earth and longitude0 the longitude of the left edge of the map, and latitude0 the latitude of the bottom of the map.
 
 
